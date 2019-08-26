@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:fbceb13e-c61a-425b-9215-bbd5ebf72f3e"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>[Title here]</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Part I: Kindred Sayings with Verses</text>
+      </navLabel>
+      <content src="Text/sn01.01.001-010.rhyc.pts.htm#sigil_toc_id_1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>1. The Devas</text>
+        </navLabel>
+        <content src="Text/sn01.01.001-010.rhyc.pts.htm#sigil_toc_id_2"/>
+        <navPoint id="navPoint-3" playOrder="3">
+          <navLabel>
+            <text>1. The 'Reed' Suttas | 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.01.001-010.rhyc.pts.htm#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+          <navLabel>
+            <text>2. The 'Paradise' Suttas | 11-20</text>
+          </navLabel>
+          <content src="Text/sn01.01.011-020.rhyc.pts.htm#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>3. The 'Sword' Suttas | 21-30</text>
+          </navLabel>
+          <content src="Text/sn01.01.021-030.rhyc.pts.htm#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>4. The 'Satullapa-Group' Suttas | 31-40</text>
+          </navLabel>
+          <content src="Text/sn01.01.031-040.rhyc.pts.htm#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>5. The 'Burning' Suttas | 41-50</text>
+          </navLabel>
+          <content src="Text/sn01.01.041-050.rhyc.pts.htm#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>6. The 'Decay' Suttas | 51-60</text>
+          </navLabel>
+          <content src="Text/sn01.01.051-060.rhyc.pts.htm#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>7. The 'Over-Under' Suttas | 61-70</text>
+          </navLabel>
+          <content src="Text/sn01.01.061-070.rhyc.pts.htm#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>8. The 'Slaughter' Suttas | 71-80</text>
+          </navLabel>
+          <content src="Text/sn01.01.071-081.rhyc.pts.htm#sigil_toc_id_10"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>2. The Sons of the Devas</text>
+        </navLabel>
+        <content src="Text/sn01.02.001-010.rhyc.pts.htm#sigil_toc_id_11"/>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>1. Kassapa | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.02.001-010.rhyc.pts.htm#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="navPoint-13" playOrder="13">
+          <navLabel>
+            <text>2. The 'Anāthapiṇḍika' Suttas | 11-20</text>
+          </navLabel>
+          <content src="Text/sn01.02.011-020.rhyc.pts.htm#sigil_toc_id_13"/>
+        </navPoint>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>3. The 'Divers Sectaries' Suttas | 21-30</text>
+          </navLabel>
+          <content src="Text/sn01.02.021-030.rhyc.pts.htm#sigil_toc_id_14"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>3. Kosala</text>
+        </navLabel>
+        <content src="Text/sn01.03.001-010.rhyc.pts.htm#sigil_toc_id_15"/>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>1. Bonds | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.03.001-010.rhyc.pts.htm#sigil_toc_id_16"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>2. Childless | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn01.03.011-020.rhyc.pts.htm#sigil_toc_id_17"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>3. [Untitled] | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn01.03.021-025.rhyc.pts.htm#sigil_toc_id_18"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>4. The Māra Suttas | 1-25</text>
+        </navLabel>
+        <content src="Text/sn01.04.001-025.rhyc.pts.htm#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>5. Suttas of the Sisters | 1-10</text>
+        </navLabel>
+        <content src="Text/sn01.05.001-010.rhyc.pts.htm#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>6. The Brahmā Suttas</text>
+        </navLabel>
+        <content src="Text/sn01.06.001.rhyc.pts.htm#sigil_toc_id_21"/>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>I: Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.06.002.rhyc.pts.htm#sigil_toc_id_22"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>II: The Quintuplet | Suttas 11-15</text>
+          </navLabel>
+          <content src="Text/sn01.06.011.rhyc.pts.htm#sigil_toc_id_23"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>7. The Brāhmana Suttas</text>
+        </navLabel>
+        <content src="Text/sn01.07.001.rhyc.pts.htm#sigil_toc_id_24"/>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>I: Arahants | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.07.001.rhyc.pts.htm#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>II: The Lay Adherents | Suttas 11-21</text>
+          </navLabel>
+          <content src="Text/sn01.07.011.rhyc.pts.htm#sigil_toc_id_26"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>8. The Vaṅgisa Suttas | 1-12</text>
+        </navLabel>
+        <content src="Text/sn01.08.001.rhyc.pts.htm#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>9. The Forest Suttas | 1-14</text>
+        </navLabel>
+        <content src="Text/sn01.09.001.rhyc.pts.htm#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>10. The Yakkha Suttas | 1-12</text>
+        </navLabel>
+        <content src="Text/sn01.10.001.rhyc.pts.htm#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>11. The Sakka Suttas</text>
+        </navLabel>
+        <content src="Text/sn01.11.001-025.rhyc.pts.htm#sigil_toc_id_30"/>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>I: Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn01.11.001-025.rhyc.pts.htm#sigil_toc_id_31"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>II: Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn01.11.001-025.rhyc.pts.htm#sigil_toc_id_32"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>III: The Sakka-Quintuplet | Suttas 20-25</text>
+          </navLabel>
+          <content src="Text/sn01.11.001-025.rhyc.pts.htm#sigil_toc_id_33"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Part II: On Cause and Other Subjects</text>
+      </navLabel>
+      <content src="Text/sn02.12.001.rhyc.pts.htm#sigil_toc_id_34"/>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>12. The Kindred Sayings on Cause</text>
+        </navLabel>
+        <content src="Text/sn02.12.001.rhyc.pts.htm#sigil_toc_id_35"/>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>1. The 'Buddha' Suttas | 1-10</text>
+          </navLabel>
+          <content src="Text/sn02.12.001.rhyc.pts.htm#sigil_toc_id_36"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>2. Sustenance-Suttas | 11-20</text>
+          </navLabel>
+          <content src="Text/sn02.12.011.rhyc.pts.htm#sigil_toc_id_37"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>3. The 'Ten Powers' | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn02.12.021.rhyc.pts.htm#sigil_toc_id_38"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>4. Kaḷāra the Nobleman | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn02.12.031.rhyc.pts.htm#sigil_toc_id_39"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>5. The Housefather | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn02.12.041.rhyc.pts.htm#sigil_toc_id_40"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>6. 'The Tree' Suttas | 51-60</text>
+          </navLabel>
+          <content src="Text/sn02.12.051.rhyc.pts.htm#sigil_toc_id_41"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>7. The Great Chapter | Suttas 61-70</text>
+          </navLabel>
+          <content src="Text/sn02.12.061.rhyc.pts.htm#sigil_toc_id_42"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>8. Recluses and Brahmins Suttas | 71-81</text>
+          </navLabel>
+          <content src="Text/sn02.12.071-81.rhyc.pts.htm#sigil_toc_id_43"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>9. Abridged Contents Suttas | 81-93</text>
+          </navLabel>
+          <content src="Text/sn02.12.082.rhyc.pts.htm#sigil_toc_id_44"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>13. On Understanding | Suttas 1-11</text>
+        </navLabel>
+        <content src="Text/sn02.13.001.rhyc.pts.htm#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>14. Kindred Sayings on Element</text>
+        </navLabel>
+        <content src="Text/sn02.14.001.rhyc.pts.htm#sigil_toc_id_46"/>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>1a. Internal Element | Suttas 1-5</text>
+          </navLabel>
+          <content src="Text/sn02.14.001.rhyc.pts.htm#sigil_toc_id_47"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>1b. External Element | Suttas 6-10</text>
+          </navLabel>
+          <content src="Text/sn02.14.006.rhyc.pts.htm#sigil_toc_id_48"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>2. Suttas 11-22</text>
+          </navLabel>
+          <content src="Text/sn02.14.011.rhyc.pts.htm#sigil_toc_id_49"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>3. Suttas 23-29</text>
+          </navLabel>
+          <content src="Text/sn02.14.023.rhyc.pts.htm#sigil_toc_id_50"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>4. Suttas 30-39</text>
+          </navLabel>
+          <content src="Text/sn02.14.030.rhyc.pts.htm#sigil_toc_id_51"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>15. On the Incalculable Beginning</text>
+        </navLabel>
+        <content src="Text/sn02.15.001.rhyc.pts.htm#sigil_toc_id_52"/>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>1. Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn02.15.001.rhyc.pts.htm#sigil_toc_id_53"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>2. Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn02.15.011.rhyc.pts.htm#sigil_toc_id_54"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>16. On Kassapa | Suttas 1-13</text>
+        </navLabel>
+        <content src="Text/sn02.16.001.rhyc.pts.htm#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>17. On Gain and Favours | Suttas 1-43</text>
+        </navLabel>
+        <content src="Text/sn02.17.001-043.rhyc.pts.htm#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>18. About Rahula</text>
+        </navLabel>
+        <content src="Text/sn02.18.001.rhyc.pts.htm#sigil_toc_id_57"/>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>1a. The Eye (a) | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn02.18.001.rhyc.pts.htm#sigil_toc_id_58"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>1b. The Eye (b) | Suttas 11-22</text>
+          </navLabel>
+          <content src="Text/sn02.18.011.rhyc.pts.htm#sigil_toc_id_59"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>19. On Lakkhana's Questions</text>
+        </navLabel>
+        <content src="Text/sn02.19.001.rhyc.pts.htm#sigil_toc_id_60"/>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>1. Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn02.19.001.rhyc.pts.htm#sigil_toc_id_61"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>2. Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn02.19.011.rhyc.pts.htm#sigil_toc_id_62"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>20. On Parables | Suttas 1-12</text>
+        </navLabel>
+        <content src="Text/sn02.20.001.rhyc.pts.htm#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>21. About Brethren | Suttas 1-12</text>
+        </navLabel>
+        <content src="Text/sn02.21.001.rhyc.pts.htm#sigil_toc_id_64"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Part III: Kindred Sayings on Elements</text>
+      </navLabel>
+      <content src="Text/sn03.22.001.wood.pts.htm#sigil_toc_id_65"/>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>22. Sensory Existence and Other Subjects</text>
+        </navLabel>
+        <content src="Text/sn03.22.001.wood.pts.htm#sigil_toc_id_66"/>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>I.1. On Elements (Khandhā) | Suttas 1-11</text>
+          </navLabel>
+          <content src="Text/sn03.22.001.wood.pts.htm#sigil_toc_id_67"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>I.2. On Impermanence | Suttas 12-21</text>
+          </navLabel>
+          <content src="Text/sn03.22.012.wood.pts.htm#sigil_toc_id_68"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>I.3. On the Burden | Suttas 22-32</text>
+          </navLabel>
+          <content src="Text/sn03.22.022.wood.pts.htm#sigil_toc_id_69"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>I.4. On Not Yours | Suttas 33-42</text>
+          </navLabel>
+          <content src="Text/sn03.22.033.wood.pts.htm#sigil_toc_id_70"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>I.5. On Being an Island to Self | Suttas 43-52</text>
+          </navLabel>
+          <content src="Text/sn03.22.043.wood.pts.htm#sigil_toc_id_71"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>II.1. On Attachment | Suttas 53-62</text>
+          </navLabel>
+          <content src="Text/sn03.22.053.wood.pts.htm#sigil_toc_id_72"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>II.2. On the Arahant | Suttas 63-72</text>
+          </navLabel>
+          <content src="Text/sn03.22.063.wood.pts.htm#sigil_toc_id_73"/>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>II.3. On what Must be Devoured | Suttas 73-82</text>
+          </navLabel>
+          <content src="Text/sn03.22.073.wood.pts.htm#sigil_toc_id_74"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>II.4. The Elders | Suttas 83-92</text>
+          </navLabel>
+          <content src="Text/sn03.22.083.wood.pts.htm#sigil_toc_id_75"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>II.5. On Flowers | Suttas 93-102</text>
+          </navLabel>
+          <content src="Text/sn03.22.093.wood.pts.htm#sigil_toc_id_76"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>III.1. Suttas 103-112</text>
+          </navLabel>
+          <content src="Text/sn03.22.103.wood.pts.htm#sigil_toc_id_77"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>III.2. Suttas 113-125</text>
+          </navLabel>
+          <content src="Text/sn03.22.113.wood.pts.htm#sigil_toc_id_78"/>
+        </navPoint>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>III.3. Suttas 126-135</text>
+          </navLabel>
+          <content src="Text/sn03.22.126.wood.pts.htm#sigil_toc_id_79"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>III.4. Suttas 136-148</text>
+          </navLabel>
+          <content src="Text/sn03.22.136.wood.pts.htm#sigil_toc_id_80"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>III.5. Suttas 149-158</text>
+          </navLabel>
+          <content src="Text/sn03.22.149.wood.pts.htm#sigil_toc_id_81"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>23. On Rādha</text>
+        </navLabel>
+        <content src="Text/sn03.23.001-046.wood.pts.htm#sigil_toc_id_82"/>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>I. Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn03.23.001-046.wood.pts.htm#sigil_toc_id_83"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>II. Suttas 11-22</text>
+          </navLabel>
+          <content src="Text/sn03.23.001-046.wood.pts.htm#sigil_toc_id_84"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>III. Requests | Suttas 23-34</text>
+          </navLabel>
+          <content src="Text/sn03.23.001-046.wood.pts.htm#sigil_toc_id_85"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>IV. Confidential | Suttas 35-46</text>
+          </navLabel>
+          <content src="Text/sn03.23.001-046.wood.pts.htm#sigil_toc_id_86"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>24. On Views</text>
+        </navLabel>
+        <content src="Text/sn03.24.001.wood.pts.htm#sigil_toc_id_87"/>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>1. The Stream-Winner | Suttas 1-18</text>
+          </navLabel>
+          <content src="Text/sn03.24.001.wood.pts.htm#sigil_toc_id_88"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>2.1. First Repetition | Suttas 19-36</text>
+          </navLabel>
+          <content src="Text/sn03.24.019-036.wood.pts.htm#sigil_toc_id_89"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>2.2. Second Repetition | Suttas 37-44</text>
+          </navLabel>
+          <content src="Text/sn03.24.037.wood.pts.htm#sigil_toc_id_90"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>3. Third Repetition | Suttas 45-70</text>
+          </navLabel>
+          <content src="Text/sn03.24.045-070.wood.pts.htm#sigil_toc_id_91"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>4. Fourth Repetition | Suttas 71-96</text>
+          </navLabel>
+          <content src="Text/sn03.24.071-096.wood.pts.htm#sigil_toc_id_92"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>25. On Entering | Suttas 1-10</text>
+        </navLabel>
+        <content src="Text/sn03.25.001.wood.pts.htm#sigil_toc_id_93"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>26. On Genesis | Suttas 1-10</text>
+        </navLabel>
+        <content src="Text/sn03.26.001.wood.pts.htm#sigil_toc_id_94"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>27. On the Corruptions | Suttas 1-10</text>
+        </navLabel>
+        <content src="Text/sn03.27.001.wood.pts.htm#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>28. On Sāriputta | Suttas 1-10</text>
+        </navLabel>
+        <content src="Text/sn03.28.001.wood.pts.htm#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>29. On Nāgas</text>
+        </navLabel>
+        <content src="Text/sn03.29.001.wood.pts.htm#sigil_toc_id_97"/>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn03.29.001.wood.pts.htm#sigil_toc_id_98"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn03.29.011-020.wood.pts.htm#sigil_toc_id_99"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn03.29.021-030.wood.pts.htm#sigil_toc_id_100"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn03.29.031-040.wood.pts.htm#sigil_toc_id_101"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn03.29.041-050.wood.pts.htm#sigil_toc_id_102"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>30. On Harpies | Suttas 1-46</text>
+        </navLabel>
+        <content src="Text/sn03.30.001-046.wood.pts.htm#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>31. On Gandharvas | Suttas 1-112</text>
+        </navLabel>
+        <content src="Text/sn03.31.001-112.wood.pts.htm#sigil_toc_id_104"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>32. On Cloud-Spirits | Suttas 1-57</text>
+        </navLabel>
+        <content src="Text/sn03.32.001-057.wood.pts.htm#sigil_toc_id_105"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>33. On Vacchagotta | Suttas 1-55</text>
+        </navLabel>
+        <content src="Text/sn03.33.001-055.wood.pts.htm#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>34. On Jhāna (or Samādhi) | Suttas 1-55</text>
+        </navLabel>
+        <content src="Text/sn03.34.001-055.wood.pts.htm#sigil_toc_id_107"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>Part IV: On the 'Six-Fold Sphere' of Sense and Other Subjects</text>
+      </navLabel>
+      <content src="Text/sn04.35.001.wood.pts.htm#sigil_toc_id_108"/>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>35. On the Sixfold Sphere of Sense</text>
+        </navLabel>
+        <content src="Text/sn04.35.001.wood.pts.htm#sigil_toc_id_109"/>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>I.1. On Impermanence | Suttas 1-12</text>
+          </navLabel>
+          <content src="Text/sn04.35.001.wood.pts.htm#sigil_toc_id_110"/>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>I.2. On the Pairs | Suttas 13-22</text>
+          </navLabel>
+          <content src="Text/sn04.35.013.wood.pts.htm#sigil_toc_id_111"/>
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>I.3. On the All | Suttas 23-32</text>
+          </navLabel>
+          <content src="Text/sn04.35.023.wood.pts.htm#sigil_toc_id_112"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>I.4. On Quality of Rebirth | Suttas 33-42</text>
+          </navLabel>
+          <content src="Text/sn04.35.033-042.wood.pts.htm#sigil_toc_id_113"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>I.5. On Impermanence | Suttas 43-52</text>
+          </navLabel>
+          <content src="Text/sn04.35.043-052.wood.pts.htm#sigil_toc_id_114"/>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>II.1. On Ignorance | Suttas 53-62</text>
+          </navLabel>
+          <content src="Text/sn04.35.053.wood.pts.htm#sigil_toc_id_115"/>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>II.2. On Migajāla | Suttas 63-73</text>
+          </navLabel>
+          <content src="Text/sn04.35.063.wood.pts.htm#sigil_toc_id_116"/>
+        </navPoint>
+        <navPoint id="navPoint-117" playOrder="117">
+          <navLabel>
+            <text>II.3. On the Sick Man | Suttas 74-83</text>
+          </navLabel>
+          <content src="Text/sn04.35.074.wood.pts.htm#sigil_toc_id_117"/>
+        </navPoint>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>II.4. On Channa and Others | Suttas 84-93</text>
+          </navLabel>
+          <content src="Text/sn04.35.084.wood.pts.htm#sigil_toc_id_118"/>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>II.5. The Chapter of the Six | Suttas 94-103</text>
+          </navLabel>
+          <content src="Text/sn04.35.094.wood.pts.htm#sigil_toc_id_119"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>III.1. On Winning Security | Suttas 104-113</text>
+          </navLabel>
+          <content src="Text/sn04.35.104.wood.pts.htm#sigil_toc_id_120"/>
+        </navPoint>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>III.2. On the Worldly Sensual Elements | Suttas 114-123</text>
+          </navLabel>
+          <content src="Text/sn04.35.114.wood.pts.htm#sigil_toc_id_121"/>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>III.3. On the Householders | Suttas 124-133</text>
+          </navLabel>
+          <content src="Text/sn04.35.124.wood.pts.htm#sigil_toc_id_122"/>
+        </navPoint>
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>III.4. On Devadaha | Suttas 134-144</text>
+          </navLabel>
+          <content src="Text/sn04.35.134.wood.pts.htm#sigil_toc_id_123"/>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>III.5. On 'New and Old' | Suttas 145-154</text>
+          </navLabel>
+          <content src="Text/sn04.35.145.wood.pts.htm#sigil_toc_id_124"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>IV.1. On the Destruction of the Lure | Suttas 155-166</text>
+          </navLabel>
+          <content src="Text/sn04.35.155.wood.pts.htm#sigil_toc_id_125"/>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>IV.2. The Sixty Summaries | Suttas 167-186</text>
+          </navLabel>
+          <content src="Text/sn04.35.167-186.wood.pts.htm#sigil_toc_id_126"/>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>IV.3. On the Ocean | Suttas 187-196</text>
+          </navLabel>
+          <content src="Text/sn04.35.187.wood.pts.htm#sigil_toc_id_127"/>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>IV.4. On the Snake | Suttas 197-207</text>
+          </navLabel>
+          <content src="Text/sn04.35.197.wood.pts.htm#sigil_toc_id_128"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>36. Kindred Sayings about Feeling</text>
+        </navLabel>
+        <content src="Text/sn04.36.001.wood.pts.htm#sigil_toc_id_129"/>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>1. With Verses | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn04.36.001.wood.pts.htm#sigil_toc_id_130"/>
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>2. On Solitude | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn04.36.011.wood.pts.htm#sigil_toc_id_131"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>3. The Method of the Hundred and Eight | Suttas 21-29</text>
+          </navLabel>
+          <content src="Text/sn04.36.021.wood.pts.htm#sigil_toc_id_132"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>37. Kindred Sayings about Womankind</text>
+        </navLabel>
+        <content src="Text/sn04.37.001.wood.pts.htm#sigil_toc_id_133"/>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>First Repetition | Suttas 1-4</text>
+          </navLabel>
+          <content src="Text/sn04.37.001.wood.pts.htm#sigil_toc_id_134"/>
+        </navPoint>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>The Dark Side 1 | Suttas 5-14</text>
+          </navLabel>
+          <content src="Text/sn04.37.005-014.wood.pts.htm#sigil_toc_id_135"/>
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>The Dark Side 2 | Suttas 15-24</text>
+          </navLabel>
+          <content src="Text/sn04.37.015-024.wood.pts.htm#sigil_toc_id_136"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>Suttas 25-34</text>
+          </navLabel>
+          <content src="Text/sn04.37.025.wood.pts.htm#sigil_toc_id_137"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>38. About Jambukhādaka | Suttas 1-16</text>
+        </navLabel>
+        <content src="Text/sn04.38.001.wood.pts.htm#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>39. About Sāmaṇḍaka | Suttas 1-16</text>
+        </navLabel>
+        <content src="Text/sn04.39.001.wood.pts.htm#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>40. About Moggallāna | Suttas 1-11</text>
+        </navLabel>
+        <content src="Text/sn04.40.001.wood.pts.htm#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>41. About Citta | Suttas 1-10</text>
+        </navLabel>
+        <content src="Text/sn04.41.001.wood.pts.htm#sigil_toc_id_141"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>42. About Headmen | Suttas 1-13</text>
+        </navLabel>
+        <content src="Text/sn04.42.001.wood.pts.htm#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>43. About the Uncompounded</text>
+        </navLabel>
+        <content src="Text/sn04.43.001.wood.pts.htm#sigil_toc_id_143"/>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>I. Suttas 1-11</text>
+          </navLabel>
+          <content src="Text/sn04.43.001.wood.pts.htm#sigil_toc_id_144"/>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>II. Suttas 12-44</text>
+          </navLabel>
+          <content src="Text/sn04.43.012.wood.pts.htm#sigil_toc_id_145"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>44. About the Unrevealed | Suttas 1-11</text>
+        </navLabel>
+        <content src="Text/sn04.44.001.wood.pts.htm#sigil_toc_id_146"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>Part V: The Great Chapter</text>
+      </navLabel>
+      <content src="Text/sn05.45.001.wood.pts.htm#sigil_toc_id_147"/>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>45. Kindred Sayings on the Way</text>
+        </navLabel>
+        <content src="Text/sn05.45.001.wood.pts.htm#sigil_toc_id_148"/>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>1. On Ignorance | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.45.001.wood.pts.htm#sigil_toc_id_149"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>2. Dwelling | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.45.011.wood.pts.htm#sigil_toc_id_150"/>
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>3. Perversion | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.45.021.wood.pts.htm#sigil_toc_id_151"/>
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>4. On Conduct | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.45.031.wood.pts.htm#sigil_toc_id_152"/>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>5. Of Other Views | Suttas 41-48</text>
+          </navLabel>
+          <content src="Text/sn05.45.041.wood.pts.htm#sigil_toc_id_153"/>
+        </navPoint>
+        <navPoint id="navPoint-154" playOrder="154">
+          <navLabel>
+            <text>The Sun i. | Suttas 49-55</text>
+          </navLabel>
+          <content src="Text/sn05.45.049.wood.pts.htm#sigil_toc_id_154"/>
+        </navPoint>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>The Sun ii. | Suttas 56-62</text>
+          </navLabel>
+          <content src="Text/sn05.45.056.wood.pts.htm#sigil_toc_id_155"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>One-Condition i. Seclusion | Suttas 63-69</text>
+          </navLabel>
+          <content src="Text/sn05.45.063-069.wood.pts.htm#sigil_toc_id_156"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>One-Condition i. Restraint | Suttas 70-76</text>
+          </navLabel>
+          <content src="Text/sn05.45.070-076.wood.pts.htm#sigil_toc_id_157"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>One-Condition ii. Seclusion | Suttas 77-83</text>
+          </navLabel>
+          <content src="Text/sn05.45.077-083.wood.pts.htm#sigil_toc_id_158"/>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>One-Condition ii. Restraint | Suttas 84-90</text>
+          </navLabel>
+          <content src="Text/sn05.45.084-090.wood.pts.htm#sigil_toc_id_159"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>Gaṅgā i. | Suttas 91-102</text>
+          </navLabel>
+          <content src="Text/sn05.45.091-102.wood.pts.htm#sigil_toc_id_160"/>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>Gaṅgā ii. | Suttas 103-114</text>
+          </navLabel>
+          <content src="Text/sn05.45.103-114.wood.pts.htm#sigil_toc_id_161"/>
+        </navPoint>
+        <navPoint id="navPoint-162" playOrder="162">
+          <navLabel>
+            <text>Gaṅgā iii. | Suttas 115-126</text>
+          </navLabel>
+          <content src="Text/sn05.45.115-126.wood.pts.htm#sigil_toc_id_162"/>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>Gaṅgā iv. | Suttas 127-138</text>
+          </navLabel>
+          <content src="Text/sn05.45.127-138.wood.pts.htm#sigil_toc_id_163"/>
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164">
+          <navLabel>
+            <text>Gaṅgā v. | Suttas 139-148</text>
+          </navLabel>
+          <content src="Text/sn05.45.139-148.wood.pts.htm#sigil_toc_id_164"/>
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>Gaṅgā vi. | Suttas 149-160</text>
+          </navLabel>
+          <content src="Text/sn05.45.149-160.wood.pts.htm#sigil_toc_id_165"/>
+        </navPoint>
+        <navPoint id="navPoint-166" playOrder="166">
+          <navLabel>
+            <text>Gaṅgā vii. | Suttas 161-170</text>
+          </navLabel>
+          <content src="Text/sn05.45.161-170.wood.pts.htm#sigil_toc_id_166"/>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text>Gaṅgā viii. | Suttas 171-180</text>
+          </navLabel>
+          <content src="Text/sn05.45.171-180.wood.pts.htm#sigil_toc_id_167"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>46. On the Limbs of Wisdom</text>
+        </navLabel>
+        <content src="Text/sn05.46.001.wood.pts.htm#sigil_toc_id_168"/>
+        <navPoint id="navPoint-169" playOrder="169">
+          <navLabel>
+            <text>1. The Mountain | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.46.001.wood.pts.htm#sigil_toc_id_169"/>
+        </navPoint>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text>2. The Sick Man | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.46.011.wood.pts.htm#sigil_toc_id_170"/>
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>3. Udāyi | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.46.021.wood.pts.htm#sigil_toc_id_171"/>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>4. On Hindrances | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.46.031.wood.pts.htm#sigil_toc_id_172"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>5. Roller of the Wheel | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn05.46.041.wood.pts.htm#sigil_toc_id_173"/>
+        </navPoint>
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>6. Perseverance | Suttas 51-56</text>
+          </navLabel>
+          <content src="Text/sn05.46.051.wood.pts.htm#sigil_toc_id_174"/>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>7. Breathing | Suttas 57-66</text>
+          </navLabel>
+          <content src="Text/sn05.46.057.wood.pts.htm#sigil_toc_id_175"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>8. Cessation | Suttas 67-76</text>
+          </navLabel>
+          <content src="Text/sn05.46.067.wood.pts.htm#sigil_toc_id_176"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>9. Gaṅgā Repetition | Suttas 77-88</text>
+          </navLabel>
+          <content src="Text/sn05.46.077-088.wood.pts.htm#sigil_toc_id_177"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>10. Earnestness | Suttas 89-98</text>
+          </navLabel>
+          <content src="Text/sn05.46.089-098.wood.pts.htm#sigil_toc_id_178"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>11. Deeds Requiring Strength | Suttas 99-110</text>
+          </navLabel>
+          <content src="Text/sn05.46.099-110.wood.pts.htm#sigil_toc_id_179"/>
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>12. On Longing | Suttas 111-120</text>
+          </navLabel>
+          <content src="Text/sn05.46.111-120.wood.pts.htm#sigil_toc_id_180"/>
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>13. The Flood | Suttas 121-130</text>
+          </navLabel>
+          <content src="Text/sn05.46.121-130.wood.pts.htm#sigil_toc_id_181"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>47: On the Stations of Mindfulness</text>
+        </navLabel>
+        <content src="Text/sn05.47.001.wood.pts.htm#sigil_toc_id_182"/>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>1. Ambapālī | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.47.001.wood.pts.htm#sigil_toc_id_183"/>
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>2. Nālandā | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.47.011.wood.pts.htm#sigil_toc_id_184"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>3. Habit and Permanence | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.47.021.wood.pts.htm#sigil_toc_id_185"/>
+        </navPoint>
+        <navPoint id="navPoint-186" playOrder="186">
+          <navLabel>
+            <text>4. Unheard Before | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.47.031.wood.pts.htm#sigil_toc_id_186"/>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>5. The Deathless | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn05.47.041.wood.pts.htm#sigil_toc_id_187"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>6. Gaṅgā Repetition | Suttas 51-62</text>
+          </navLabel>
+          <content src="Text/sn05.47.051-062.wood.pts.htm#sigil_toc_id_188"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>7. Earnestness | Suttas 63-72</text>
+          </navLabel>
+          <content src="Text/sn05.47.063-072.wood.pts.htm#sigil_toc_id_189"/>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>8. Deeds Requiring Strength | Suttas 73-84</text>
+          </navLabel>
+          <content src="Text/sn05.47.073-084.wood.pts.htm#sigil_toc_id_190"/>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>9. Longing | Suttas 85-94</text>
+          </navLabel>
+          <content src="Text/sn05.47.085-094.wood.pts.htm#sigil_toc_id_191"/>
+        </navPoint>
+        <navPoint id="navPoint-192" playOrder="192">
+          <navLabel>
+            <text>10. The Flood | Suttas 95-104</text>
+          </navLabel>
+          <content src="Text/sn05.47.095-104.wood.pts.htm#sigil_toc_id_192"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>48. On the Faculties</text>
+        </navLabel>
+        <content src="Text/sn05.48.001.wood.pts.htm#sigil_toc_id_193"/>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>1. Purity | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.48.001.wood.pts.htm#sigil_toc_id_194"/>
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+          <navLabel>
+            <text>2. In A Less Degree | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.48.011.wood.pts.htm#sigil_toc_id_195"/>
+        </navPoint>
+        <navPoint id="navPoint-196" playOrder="196">
+          <navLabel>
+            <text>3. The Six Faculties | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.48.021.wood.pts.htm#sigil_toc_id_196"/>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>4. The Faculty of Ease | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.48.031.wood.pts.htm#sigil_toc_id_197"/>
+        </navPoint>
+        <navPoint id="navPoint-198" playOrder="198">
+          <navLabel>
+            <text>5. Old Age | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn05.48.041.wood.pts.htm#sigil_toc_id_198"/>
+        </navPoint>
+        <navPoint id="navPoint-199" playOrder="199">
+          <navLabel>
+            <text>6. Untitled | Suttas 51-60</text>
+          </navLabel>
+          <content src="Text/sn05.48.051.wood.pts.htm#sigil_toc_id_199"/>
+        </navPoint>
+        <navPoint id="navPoint-200" playOrder="200">
+          <navLabel>
+            <text>7. On the Side of the Wisdom | Suttas 61-70</text>
+          </navLabel>
+          <content src="Text/sn05.48.061.wood.pts.htm#sigil_toc_id_200"/>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201">
+          <navLabel>
+            <text>8. Gaṅgā Repetition | Suttas 71-82</text>
+          </navLabel>
+          <content src="Text/sn05.48.071-082.wood.pts.htm#sigil_toc_id_201"/>
+        </navPoint>
+        <navPoint id="navPoint-202" playOrder="202">
+          <navLabel>
+            <text>9. Earnestness | Suttas 83-92</text>
+          </navLabel>
+          <content src="Text/sn05.48.083-092.wood.pts.htm#sigil_toc_id_202"/>
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+          <navLabel>
+            <text>10. Deeds Requiring Strength | Suttas 93-104</text>
+          </navLabel>
+          <content src="Text/sn05.48.093-104.wood.pts.htm#sigil_toc_id_203"/>
+        </navPoint>
+        <navPoint id="navPoint-204" playOrder="204">
+          <navLabel>
+            <text>11. Longing | Suttas 105-114</text>
+          </navLabel>
+          <content src="Text/sn05.48.105-114.wood.pts.htm#sigil_toc_id_204"/>
+        </navPoint>
+        <navPoint id="navPoint-205" playOrder="205">
+          <navLabel>
+            <text>12. The Flood | Suttas 115-124</text>
+          </navLabel>
+          <content src="Text/sn05.48.115-124.wood.pts.htm#sigil_toc_id_205"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>49: On the Right Efforts</text>
+        </navLabel>
+        <content src="Text/sn05.49.001-012.wood.pts.htm#sigil_toc_id_206"/>
+        <navPoint id="navPoint-207" playOrder="207">
+          <navLabel>
+            <text>1. Gaṅgā-Repetition | Suttas 1-12</text>
+          </navLabel>
+          <content src="Text/sn05.49.001-012.wood.pts.htm#sigil_toc_id_207"/>
+        </navPoint>
+        <navPoint id="navPoint-208" playOrder="208">
+          <navLabel>
+            <text>2. Earnestness | Suttas 13-22</text>
+          </navLabel>
+          <content src="Text/sn05.49.013-022.wood.pts.htm#sigil_toc_id_208"/>
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209">
+          <navLabel>
+            <text>3. Deeds Requiring Strength | Suttas 23-34</text>
+          </navLabel>
+          <content src="Text/sn05.49.023-034.wood.pts.htm#sigil_toc_id_209"/>
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210">
+          <navLabel>
+            <text>4. Longing | Suttas 35-44</text>
+          </navLabel>
+          <content src="Text/sn05.49.035-044.wood.pts.htm#sigil_toc_id_210"/>
+        </navPoint>
+        <navPoint id="navPoint-211" playOrder="211">
+          <navLabel>
+            <text>5. The Flood | Suttas 45-54</text>
+          </navLabel>
+          <content src="Text/sn05.49.045-054.wood.pts.htm#sigil_toc_id_211"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>50. Kindred Sayings on the Powers</text>
+        </navLabel>
+        <content src="Text/sn05.50.001-012.wood.pts.htm#sigil_toc_id_212"/>
+        <navPoint id="navPoint-213" playOrder="213">
+          <navLabel>
+            <text>1. Gaṅgā Repetition | Suttas 1-12</text>
+          </navLabel>
+          <content src="Text/sn05.50.001-012.wood.pts.htm#sigil_toc_id_213"/>
+        </navPoint>
+        <navPoint id="navPoint-214" playOrder="214">
+          <navLabel>
+            <text>2. Earnestness | Suttas 13-22</text>
+          </navLabel>
+          <content src="Text/sn05.50.013-022.wood.pts.htm#sigil_toc_id_214"/>
+        </navPoint>
+        <navPoint id="navPoint-215" playOrder="215">
+          <navLabel>
+            <text>3. Deeds Requiring Strength | Suttas 23-34</text>
+          </navLabel>
+          <content src="Text/sn05.50.023-034.wood.pts.htm#sigil_toc_id_215"/>
+        </navPoint>
+        <navPoint id="navPoint-216" playOrder="216">
+          <navLabel>
+            <text>4. Longing | Suttas 35-44</text>
+          </navLabel>
+          <content src="Text/sn05.50.035-044.wood.pts.htm#sigil_toc_id_216"/>
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217">
+          <navLabel>
+            <text>5. The Flood | Suttas 45-54</text>
+          </navLabel>
+          <content src="Text/sn05.50.045-054.wood.pts.htm#sigil_toc_id_217"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>51. On the Bases of Psychic Power</text>
+        </navLabel>
+        <content src="Text/sn05.51.001.wood.pts.htm#sigil_toc_id_218"/>
+        <navPoint id="navPoint-219" playOrder="219">
+          <navLabel>
+            <text>1. Cāpāla | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.51.001.wood.pts.htm#sigil_toc_id_219"/>
+        </navPoint>
+        <navPoint id="navPoint-220" playOrder="220">
+          <navLabel>
+            <text>2. The Shaking of the Terraced House | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.51.011.wood.pts.htm#sigil_toc_id_220"/>
+        </navPoint>
+        <navPoint id="navPoint-221" playOrder="221">
+          <navLabel>
+            <text>3. [Untitled] | Suttas 21-32</text>
+          </navLabel>
+          <content src="Text/sn05.51.021.wood.pts.htm#sigil_toc_id_221"/>
+        </navPoint>
+        <navPoint id="navPoint-222" playOrder="222">
+          <navLabel>
+            <text>4. Gangā-Repetition | Suttas 33-44</text>
+          </navLabel>
+          <content src="Text/sn05.51.033-044.wood.pts.htm#sigil_toc_id_222"/>
+        </navPoint>
+        <navPoint id="navPoint-223" playOrder="223">
+          <navLabel>
+            <text>5. Earnestness | Suttas 45-54</text>
+          </navLabel>
+          <content src="Text/sn05.51.045-054.wood.pts.htm#sigil_toc_id_223"/>
+        </navPoint>
+        <navPoint id="navPoint-224" playOrder="224">
+          <navLabel>
+            <text>6. Deeds Requiring Strength | Suttas 55-66</text>
+          </navLabel>
+          <content src="Text/sn05.51.055-066.wood.pts.htm#sigil_toc_id_224"/>
+        </navPoint>
+        <navPoint id="navPoint-225" playOrder="225">
+          <navLabel>
+            <text>7. Longing | Suttas 67-76</text>
+          </navLabel>
+          <content src="Text/sn05.51.067-076.wood.pts.htm#sigil_toc_id_225"/>
+        </navPoint>
+        <navPoint id="navPoint-226" playOrder="226">
+          <navLabel>
+            <text>8. The Flood | Suttas 77-86</text>
+          </navLabel>
+          <content src="Text/sn05.51.077-086.wood.pts.htm#sigil_toc_id_226"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>52. Kindred Sayings about Anuruddha</text>
+        </navLabel>
+        <content src="Text/sn05.52.001.wood.pts.htm#sigil_toc_id_227"/>
+        <navPoint id="navPoint-228" playOrder="228">
+          <navLabel>
+            <text>1. In Solitude | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.52.001.wood.pts.htm#sigil_toc_id_228"/>
+        </navPoint>
+        <navPoint id="navPoint-229" playOrder="229">
+          <navLabel>
+            <text>2. Thousandfold | Suttas 11-24</text>
+          </navLabel>
+          <content src="Text/sn05.52.011-024.wood.pts.htm#sigil_toc_id_229"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>53: On the Four Trances</text>
+        </navLabel>
+        <content src="Text/sn05.53.001-012.wood.pts.htm#sigil_toc_id_230"/>
+        <navPoint id="navPoint-231" playOrder="231">
+          <navLabel>
+            <text>1. Gangā-Repetition | Suttas 1-12</text>
+          </navLabel>
+          <content src="Text/sn05.53.001-012.wood.pts.htm#sigil_toc_id_231"/>
+        </navPoint>
+        <navPoint id="navPoint-232" playOrder="232">
+          <navLabel>
+            <text>2. Earnestness | Suttas 13-22</text>
+          </navLabel>
+          <content src="Text/sn05.53.013-022.wood.pts.htm#sigil_toc_id_232"/>
+        </navPoint>
+        <navPoint id="navPoint-233" playOrder="233">
+          <navLabel>
+            <text>3. Deeds Requiring Strength | Suttas 23-34</text>
+          </navLabel>
+          <content src="Text/sn05.53.023-034.wood.pts.htm#sigil_toc_id_233"/>
+        </navPoint>
+        <navPoint id="navPoint-234" playOrder="234">
+          <navLabel>
+            <text>4. Longing | Suttas 35-44</text>
+          </navLabel>
+          <content src="Text/sn05.53.035-044.wood.pts.htm#sigil_toc_id_234"/>
+        </navPoint>
+        <navPoint id="navPoint-235" playOrder="235">
+          <navLabel>
+            <text>5. The Flood | Suttas 45-54</text>
+          </navLabel>
+          <content src="Text/sn05.53.045-054.wood.pts.htm#sigil_toc_id_235"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-236" playOrder="236">
+        <navLabel>
+          <text>54. About In-Breathing and Out-Breathing</text>
+        </navLabel>
+        <content src="Text/sn05.54.001.wood.pts.htm#sigil_toc_id_236"/>
+        <navPoint id="navPoint-237" playOrder="237">
+          <navLabel>
+            <text>1. The One Condition | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.54.001.wood.pts.htm#sigil_toc_id_237"/>
+        </navPoint>
+        <navPoint id="navPoint-238" playOrder="238">
+          <navLabel>
+            <text>2. The One Condition 2 | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.54.011.wood.pts.htm#sigil_toc_id_238"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>55. Kindred Sayings on Streamwinning</text>
+        </navLabel>
+        <content src="Text/sn05.55.001.wood.pts.htm#sigil_toc_id_239"/>
+        <navPoint id="navPoint-240" playOrder="240">
+          <navLabel>
+            <text>1. Veḷudvāra | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.55.001.wood.pts.htm#sigil_toc_id_240"/>
+        </navPoint>
+        <navPoint id="navPoint-241" playOrder="241">
+          <navLabel>
+            <text>2. Thousandfold, or Royal Park | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.55.011.wood.pts.htm#sigil_toc_id_241"/>
+        </navPoint>
+        <navPoint id="navPoint-242" playOrder="242">
+          <navLabel>
+            <text>3. Sarakāni | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.55.021.wood.pts.htm#sigil_toc_id_242"/>
+        </navPoint>
+        <navPoint id="navPoint-243" playOrder="243">
+          <navLabel>
+            <text>4. Flood of Merit | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.55.031.wood.pts.htm#sigil_toc_id_243"/>
+        </navPoint>
+        <navPoint id="navPoint-244" playOrder="244">
+          <navLabel>
+            <text>5. Flood of Merit with Verses | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn05.55.041.wood.pts.htm#sigil_toc_id_244"/>
+        </navPoint>
+        <navPoint id="navPoint-245" playOrder="245">
+          <navLabel>
+            <text>6. Discreet | Suttas 51-61</text>
+          </navLabel>
+          <content src="Text/sn05.55.051.wood.pts.htm#sigil_toc_id_245"/>
+        </navPoint>
+        <navPoint id="navPoint-246" playOrder="246">
+          <navLabel>
+            <text>7. Great Insight | Suttas 62-74</text>
+          </navLabel>
+          <content src="Text/sn05.55.062.wood.pts.htm#sigil_toc_id_246"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>56: Kindred Sayings about the Truths</text>
+        </navLabel>
+        <content src="Text/sn05.56.001.wood.pts.htm#sigil_toc_id_247"/>
+        <navPoint id="navPoint-248" playOrder="248">
+          <navLabel>
+            <text>1. Concentration | Suttas 1-10</text>
+          </navLabel>
+          <content src="Text/sn05.56.001.wood.pts.htm#sigil_toc_id_248"/>
+        </navPoint>
+        <navPoint id="navPoint-249" playOrder="249">
+          <navLabel>
+            <text>2. The Foundation of the Kingdom of the Norm | Suttas 11-20</text>
+          </navLabel>
+          <content src="Text/sn05.56.011.wood.pts.htm#sigil_toc_id_249"/>
+        </navPoint>
+        <navPoint id="navPoint-250" playOrder="250">
+          <navLabel>
+            <text>3. Koṭigāma | Suttas 21-30</text>
+          </navLabel>
+          <content src="Text/sn05.56.021.wood.pts.htm#sigil_toc_id_250"/>
+        </navPoint>
+        <navPoint id="navPoint-251" playOrder="251">
+          <navLabel>
+            <text>4. Siṅsapā Grove | Suttas 31-40</text>
+          </navLabel>
+          <content src="Text/sn05.56.031.wood.pts.htm#sigil_toc_id_251"/>
+        </navPoint>
+        <navPoint id="navPoint-252" playOrder="252">
+          <navLabel>
+            <text>5. The Precipice | Suttas 41-50</text>
+          </navLabel>
+          <content src="Text/sn05.56.041.wood.pts.htm#sigil_toc_id_252"/>
+        </navPoint>
+        <navPoint id="navPoint-253" playOrder="253">
+          <navLabel>
+            <text>6. Comprehension | Suttas 51-60</text>
+          </navLabel>
+          <content src="Text/sn05.56.051.wood.pts.htm#sigil_toc_id_253"/>
+        </navPoint>
+        <navPoint id="navPoint-254" playOrder="254">
+          <navLabel>
+            <text>7. Cyclic-Repetition | Suttas 61-70</text>
+          </navLabel>
+          <content src="Text/sn05.56.061-070.wood.pts.htm#sigil_toc_id_254"/>
+        </navPoint>
+        <navPoint id="navPoint-255" playOrder="255">
+          <navLabel>
+            <text>8. Few Abstain | Suttas 71-80</text>
+          </navLabel>
+          <content src="Text/sn05.56.071-080.wood.pts.htm#sigil_toc_id_255"/>
+        </navPoint>
+        <navPoint id="navPoint-256" playOrder="256">
+          <navLabel>
+            <text>9. Uncooked-Grain Repetition | Suttas 81-90</text>
+          </navLabel>
+          <content src="Text/sn05.56.081-090.wood.pts.htm#sigil_toc_id_256"/>
+        </navPoint>
+        <navPoint id="navPoint-257" playOrder="257">
+          <navLabel>
+            <text>10. More Numerous | Suttas 31-101</text>
+          </navLabel>
+          <content src="Text/sn05.56.091-101.wood.pts.htm#sigil_toc_id_257"/>
+        </navPoint>
+        <navPoint id="navPoint-258" playOrder="258">
+          <navLabel>
+            <text>11. The Five Destinies | Suttas 102-131</text>
+          </navLabel>
+          <content src="Text/sn05.56.102-131.wood.pts.htm#sigil_toc_id_258"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
