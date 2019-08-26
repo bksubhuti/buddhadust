@@ -82,6 +82,11 @@ Replace:
 `<h1>\1. \3</h1><h3>\2</h3>`
 
 
+### 3? Remove Boilerplate
+
+Find: `<body.*?(?=<h4 class="ctr">Sutta)`
+Replace: `<body>\n<div>`
+
 
 ### 3b. Reformat 33. Recital Titles
 DotAll = ON | Minimal Match = ON
@@ -217,7 +222,11 @@ Replace:
 or
 `\1\2\3`
 
-#### Issues
+
+
+### Remove Translated By
+
+Find: `<p class="ctr">Translated.*?(?:Oxford)<\/p>` D=1
 
 
 
