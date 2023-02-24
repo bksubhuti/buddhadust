@@ -1,0 +1,21 @@
+Credits:
+
+Original Texts:  PTS
+
+
+The majority of the work here has been done by “Obo” of http://Buddhadust.net .  He provided the cleaned up texts from OCR’s made from the PTS books on his website.  Later they were transformed into an unabridged version with all of the repetitions “rolled out” along with some additional annotations as well.
+
+I give much appreciation and gratitude to recognize Stephen J. Torrence who spent many tedious hours writing RegEx macros to transform the buddhadust.net website into a proper eBook.  Stephen also did the covers and many other action items including manually editing the SN and AN for the Table of Contents.  Without his help, this project would probably never come to fruition or be far from the professional “look and feel” as I believe he has achieved.  Much credit goes to him for this project.  Brad Garrison, Lean Lim, Michael Rickicki, and Peter N deserve a mention for helping with the spell checking process, especially Lean Lim who checked several batches I sent her.
+
+This ebook version may contain errors related to OCR or other reasons.  Some words may have wrong interpretations from guessing what the OCR mistakes were.  Some words may have been upgraded from unused archaic spellings and/or word usage, but most of the ancient text “style” and spelling was left “as is.”  An upgraded version might be planned in the far future.
+
+May all beings share in the fruits of this great merit!
+Bhante Bhikkhu Subh?ti
+
+The original scanned texts (in image format) can be found at:  
+http://buddhadust.net/backmatter/indexes/idx_downloads.htm#pts_pdfs
+
+Issues or mistakes may be reported on https://github.com/bksubhuti/buddhadust/issues
+
+Recent versions can be found at https://github.com/bksubhuti/buddhadust/tree/master/pts-ebooks 
+

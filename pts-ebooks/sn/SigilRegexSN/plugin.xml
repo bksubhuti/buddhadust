@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>SigilRegexSN</name>
+	<autostart>true</autostart>
+	<autoclose>true</autoclose>	
+	<type>edit</type>
+	<author>CaptainValor</author>
+	<description>Apply Regex to reformat the Buddhadust SN into an ePub</description>
+	<engine>python3.4</engine>
+	<version>0.1</version>
+	<oslist>osx,win,unx</oslist> 
+</plugin>

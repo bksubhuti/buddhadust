@@ -1,0 +1,5 @@
+s/accomphshment/accomplishment/g
+s/acoount/account/g
+s/aham/ahaṁ/g
+s/ahns-round/alms-round/g
+s/aimsfood/almsfood/g
